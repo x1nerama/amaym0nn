@@ -1,6 +1,6 @@
-## Hello! My name is Berkay. I am 16 years old and interested in **reverse engineering**, **linux sysadmin** and **network pentest**.
+### Hello! My name is Berkay. I am 16 years old and interested in **reverse engineering**, **linux sysadmin** and **network pentest**.
 
-## I am currently working on reverse engineering. I'm also learning x86 Linux assembly and C languages.
+### I am currently working on reverse engineering. I'm also learning x86 Linux assembly and C languages.
 
 <!--
 **amaym0nn/amaym0nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **X86 Linux Assembly**
 
 &nbsp;
-If you want to take a look at the simple assembly projects I've made, <a href="https://github.com/amaym0nn/x86-assembly-projects"> you can click here. </a>
+If you want to take a look at the simple assembly projects I've made, you can <a href="https://github.com/amaym0nn/x86-assembly-projects"> click here. </a>
 
 &nbsp;
 

@@ -9,10 +9,3 @@
 
 &nbsp;
 If you want to take a look at the simple assembly projects I've made, you can <a href="https://github.com/amaym0nn/x86-assembly-projects"> click here. </a>
-
-&nbsp;
-
-**My Stats:**
-&nbsp;
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=amaym0nn&show_icons=true&theme=radical)
